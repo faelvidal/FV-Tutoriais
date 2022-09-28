@@ -22,17 +22,7 @@
       >
        <iframe width="560" height="315" src="https://www.youtube.com/embed/I43liSQAYx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-        <v-row justify="center">
-          <a
-            v-for="(next, i) in whatsNext"
-            :key="i"
-            :href="next.href"
-            class="subheading mx-3"
-            target="_blank"
-          >
-            {{ next.text }}
-          </a>
-        </v-row>
+        
       </v-col>
 
       <v-col
@@ -41,25 +31,16 @@
       >
         <iframe width="560" height="315" src="https://www.youtube.com/embed/s5nJAtgsL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-        <v-row justify="center">
-          <a
-            v-for="(link, i) in importantLinks"
-            :key="i"
-            :href="link.href"
-            class="subheading mx-3"
-            target="_blank"
-          >
-            {{ link.text }}
-          </a>
-        </v-row>
+        
       </v-col>
+      
 
       <v-col
         class="mb-5"
         cols="12"
       >
         <h2 class="headline font-weight-bold mb-3">
-          Ecosystem
+         Redes Sociais
         </h2>
 
         <v-row justify="center">
@@ -85,54 +66,20 @@
     data: () => ({
       ecosystem: [
         {
-          text: 'vuetify-loader',
-          href: 'https://github.com/vuetifyjs/vuetify-loader',
+          text: 'Linkedin',
+          href: 'https://www.linkedin.com/in/faelvidal/',
         },
         {
-          text: 'github',
-          href: 'https://github.com/vuetifyjs/vuetify',
+          text: 'Github',
+          href: 'https://github.com/faelvidal',
         },
         {
-          text: 'awesome-vuetify',
-          href: 'https://github.com/vuetifyjs/awesome-vuetify',
+          text: 'You Tube',
+          href: 'https://www.youtube.com/c/FAELDAINTERNET/feature',
         },
       ],
-      importantLinks: [
-        {
-          text: 'Documentation',
-          href: 'https://vuetifyjs.com',
-        },
-        {
-          text: 'Chat',
-          href: 'https://community.vuetifyjs.com',
-        },
-        {
-          text: 'Made with Vuetify',
-          href: 'https://madewithvuejs.com/vuetify',
-        },
-        {
-          text: 'Twitter',
-          href: 'https://twitter.com/vuetifyjs',
-        },
-        {
-          text: 'Articles',
-          href: 'https://medium.com/vuetify',
-        },
-      ],
-      whatsNext: [
-        {
-          text: 'Explore components',
-          href: 'https://vuetifyjs.com/components/api-explorer',
-        },
-        {
-          text: 'Select a layout',
-          href: 'https://vuetifyjs.com/getting-started/pre-made-layouts',
-        },
-        {
-          text: 'Frequently Asked Questions',
-          href: 'https://vuetifyjs.com/getting-started/frequently-asked-questions',
-        },
-      ],
+      
+      
     }),
   }
 </script>
