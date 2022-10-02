@@ -15,10 +15,30 @@
           width="40"
         />
 
-       
-      </div>
+       </div>
 
+      <div>
+  
+        <v-btn
+         class="ma-2"
+         fab
+         dark
+          color="primary"
+        >
+          <v-icon dark>
+            mdi-format-list-bulleted-square
+          </v-icon>
+        </v-btn>
+
+        
+
+      </div>
+      
       <v-spacer></v-spacer>
+      
+        <v-btn icon>
+          <v-icon>mdi-magnify</v-icon>
+        </v-btn>
 
       <v-btn
         href="https://www.youtube.com/c/FAELDAINTERNET/feature"
