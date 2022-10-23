@@ -74,9 +74,14 @@
           href: 'https://github.com/faelvidal',
         },
         {
-          text: 'You Tube',
-          href: 'https://www.youtube.com/c/FAELDAINTERNET/feature',
+          text: 'Behance',
+          href: 'https://www.behance.net/faeldainternet',
         },
+        {
+          text: 'Youtube',
+          href: 'https://www.youtube.com/c/FAELDAINTERNET/feature',
+        }
+        ,
       ],
       
       
