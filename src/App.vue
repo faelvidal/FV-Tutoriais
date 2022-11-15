@@ -5,6 +5,7 @@
       color="primary"
       dark
     >
+      
       <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
@@ -14,10 +15,7 @@
           transition="scale-transition"
           width="40"
         />
-
-       </div>
-
-      
+      </div>
       
       <v-spacer></v-spacer>
       
