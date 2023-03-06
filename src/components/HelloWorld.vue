@@ -5,7 +5,7 @@
       
       <v-col cols="12">
 
-        <iframe width="560" height="315" 
+        <iframe width="auto" height="250" 
          src="https://www.youtube.com/embed/videoseries?list=PLohNzumXECygQqMYCQnC58sFUXYE3Ezmq" 
          title="Os Videos Mais vistos do canal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
          allowfullscreen></iframe>      
@@ -13,14 +13,14 @@
 
      
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xp_57SQe0G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="auto" height="250" src="https://www.youtube.com/embed/Xp_57SQe0G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </v-col>
 
       <v-col
         class="mb-5"
         cols="12"
       >
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/I43liSQAYx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="auto" height="250" src="https://www.youtube.com/embed/I43liSQAYx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         
       </v-col>
@@ -29,7 +29,7 @@
         class="mb-5"
         cols="12"
       >
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/s5nJAtgsL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="auto" height="250" src="https://www.youtube.com/embed/s5nJAtgsL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         
       </v-col>

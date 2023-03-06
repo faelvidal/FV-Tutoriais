@@ -22,11 +22,11 @@
        
 
       <v-btn
-        href="https://www.youtube.com/c/FAELDAINTERNET/feature"
+        href="https://www.youtube.com/c/fvtutoriais/feature"
         target="_blank"
         text
       >
-        <span class="mr-2">Fael da Internet</span>
+        <span class="mr-2">FV Tutoriais</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>
