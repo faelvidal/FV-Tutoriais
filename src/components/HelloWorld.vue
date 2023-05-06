@@ -5,10 +5,7 @@
       
       <v-col cols="12">
 
-        <iframe width="auto" height="250" 
-         src="https://www.youtube.com/embed/videoseries?list=PLohNzumXECygQqMYCQnC58sFUXYE3Ezmq" 
-         title="Os Videos Mais vistos do canal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen></iframe>      
+   
       </v-col>
 
      
@@ -75,11 +72,11 @@
         },
         {
           text: 'Behance',
-          href: 'https://www.behance.net/faeldainternet',
+          href: 'https://www.behance.net/faelvidal',
         },
         {
           text: 'Youtube',
-          href: 'https://www.youtube.com/c/FAELDAINTERNET/feature',
+          href: 'https://www.youtube.com/@fvtutoriais/feature',
         }
         ,
       ],

@@ -22,7 +22,7 @@
        
 
       <v-btn
-        href="https://www.youtube.com/c/fvtutoriais/feature"
+        href="https://www.youtube.com/@fvtutoriais/feature"
         target="_blank"
         text
       >
