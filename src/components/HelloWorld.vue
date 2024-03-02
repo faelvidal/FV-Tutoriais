@@ -36,9 +36,7 @@
         class="mb-5"
         cols="12"
       >
-        <h2 class="headline font-weight-bold mb-3">
-         Redes Sociais
-        </h2>
+        
 
         <v-row justify="center">
           <a
@@ -63,19 +61,10 @@
     data: () => ({
       ecosystem: [
         {
-          text: 'Linkedin',
-          href: 'https://www.linkedin.com/in/faelvidal/',
+        
         },
         {
-          text: 'Github',
-          href: 'https://github.com/faelvidal',
-        },
-        {
-          text: 'Behance',
-          href: 'https://www.behance.net/faelvidal',
-        },
-        {
-          text: 'Youtube',
+          text: 'FV Tutoriais | Fael da Telecom',
           href: 'https://www.youtube.com/@fvtutoriais/feature',
         }
         ,
